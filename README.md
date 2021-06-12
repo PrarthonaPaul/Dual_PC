@@ -27,4 +27,7 @@ At the any point in the game, whichever player is able to end the other player's
 
 Initially, the game was meant to have a tutorial that the player can play to get used to the movement in the game. The tutorial places a circle at different points in the screen and the user has to navigate a ship inside that circle. However, it was developed seperately from the actual game, so while the team was putting the game together, the file crashed and the tutorial was kept seperately. 
 
-A demo for the tutorial can be accessed <a href="">here</a>.
+A demo for the tutorial can be accessed <a href="https://github.com/PrarthonaPaul/Dual_PC/blob/main/elementary%20final%202021-05-25%2016-25-05.mp4">here</a> and <a href="https://drive.google.com/file/d/1XDsnt60rBbDIT_bjysdfRhC51OqgAZcw/view?usp=sharing">here</a>.
+
+A demo for the tutorial can be accessed <a href="https://github.com/PrarthonaPaul/Dual_PC/blob/main/Dual!_PC%202021-05-25%2016-28-44%20(1).mp4">here</a> and <a href="https://drive.google.com/file/d/1Jnjt-kC7PhpqjQMRq2uwB-sipsP4Y4Ur/view?usp=sharing">here</a>.
+
